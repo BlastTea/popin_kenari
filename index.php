@@ -26,7 +26,7 @@
         <div class="container">
           <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <div class="col-lg-6 text-center">
-              <h2 class="">Welcome to UpConstruction</h2>
+              <h2 class="">Selamat datang di Popin Kenari</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
               <a href="#get-started" class="btn-get-started">Get Started</a>
             </div>
@@ -37,24 +37,24 @@
       <div id="section-fqREP4OWmC-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
 
         <div class="carousel-item">
-          <img src="assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
+          <img src="assets/img/hero-carousel/1.png" alt="">
         </div>
 
         <div class="carousel-item active">
-          <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
+          <img src="assets/img/hero-carousel/2.png" alt="">
         </div>
 
         <div class="carousel-item">
-          <img src="assets/img/hero-carousel/hero-carousel-3.jpg" alt="">
+          <img src="assets/img/hero-carousel/3.png" alt="">
         </div>
 
-        <div class="carousel-item">
+        <!-- <div class="carousel-item">
           <img src="assets/img/hero-carousel/hero-carousel-4.jpg" alt="">
         </div>
 
         <div class="carousel-item">
           <img src="assets/img/hero-carousel/hero-carousel-5.jpg" alt="">
-        </div>
+        </div> -->
 
         <a class="carousel-control-prev" href="#section-fqREP4OWmC-carousel" role="button" data-bs-slide="prev">
           <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -69,7 +69,7 @@
     </section><!-- /Hero Section -->
 
     <!-- Get Started Section -->
-    <section id="get-started" class="get-started section">
+    <!-- <section id="get-started" class="get-started section">
 
       <div class="container">
 
@@ -122,7 +122,8 @@
 
       </div>
 
-    </section><!-- /Get Started Section -->
+    </section> -->
+    <!-- /Get Started Section -->
 
     <!-- Constructions Section -->
     <section id="constructions" class="constructions section">
