@@ -25,7 +25,7 @@
         <h1>Blog</h1>
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="current">Blog</li>
           </ol>
         </nav>
@@ -66,7 +66,7 @@
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
               </div>
 
@@ -101,7 +101,7 @@
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
               </div>
 
@@ -136,7 +136,7 @@
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
               </div>
 
@@ -171,7 +171,7 @@
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
               </div>
 
@@ -206,7 +206,7 @@
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
               </div>
 
@@ -241,7 +241,7 @@
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.php" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
 
               </div>
 
@@ -275,7 +275,7 @@
     <div class="container footer-top">
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
-          <a href="index.html" class="logo d-flex align-items-center">
+          <a href="index.php" class="logo d-flex align-items-center">
             <span class="sitename">UpConstruction</span>
           </a>
           <div class="footer-contact pt-3">
