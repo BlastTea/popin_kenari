@@ -22,11 +22,11 @@
     <!-- Page Title -->
     <div class="page-title" data-aos="fade" style="background-image: url(assets/img/page-title-bg.jpg);">
       <div class="container position-relative">
-        <h1>Blog</h1>
+        <h1>Artikel</h1>
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="index.php">Home</a></li>
-            <li class="current">Blog</li>
+            <li><a href="index.php">Beranda</a></li>
+            <li class="current">Artikel</li>
           </ol>
         </nav>
       </div>

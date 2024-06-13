@@ -8,7 +8,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
         <li><a href="about.php" class="<?= ($current_page == 'about.php') ? 'active' : ''; ?>">Produk Pakan dan Vitamin</a></li>
         <li><a href="services.php" class="<?= ($current_page == 'services.php' or $current_page == 'service-details.php') ? 'active' : ''; ?>">Produk Pendukung</a></li>
         <!-- <li><a href="projects.php" class="<?= ($current_page == 'projects.php' or $current_page == 'project-details.php') ? 'active' : ''; ?>">Projects</a></li> -->
-        <li><a href="blog.php" class="<?= ($current_page == 'blog.php' or $current_page == 'blog-details.php') ? 'active' : ''; ?>">Artikel</a></li>
+        <li><a href="article.php" class="<?= ($current_page == 'article.php' or $current_page == 'article-details.php') ? 'active' : ''; ?>">Artikel</a></li>
         <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
                 <li><a href="#">Dropdown 1</a></li>

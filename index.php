@@ -122,7 +122,7 @@
 
       </div>
 
-    </section> -->
+    </section>
     <!-- /Get Started Section -->
 
     <!-- Constructions Section -->
