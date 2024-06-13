@@ -28,7 +28,7 @@
             <div class="col-lg-6 text-center">
               <h2 class="">Selamat datang di Popin Kenari</h2>
               <p>Budidaya Kenari Cerdas dengan Teknik Hibridisasi dan Pengembangan Produk Pendukung untuk Pasar Premium.</p>
-              <a href="#get-started" class="btn-get-started">Get Started</a>
+              <!-- <a href="#get-started" class="btn-get-started">Mulai</a> -->
             </div>
           </div>
         </div>
@@ -130,8 +130,8 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2 class="">Constructions</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2 class="">Produk Kenari</h2>
+        <p>Hibridisasi kenari dilakukan untuk memperoleh kenari dengan genetik  unggul baik dari segi postur, warna dan suara burung.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -142,12 +142,12 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg"><img src="assets/img/constructions-1.jpg" alt=""></div>
+                  <div class="card-bg"><img src="assets/img/hero-carousel/3.png" alt=""></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                    <h4 class="card-title">Kenari Yorkshire</h4>
+                    <p>Kenari Yorkshire dikenal dengan postur tubuhnya yang panjang dan ramping, sering dijuluki sebagai "aristokrat" di antara kenari. Asalnya dari Inggris, burung ini populer karena sikapnya yang elegan dan bulu yang halus. Yorkshire sangat terkenal di kalangan penggemar kenari karena kemampuannya dalam kontes kecantikan dan suaranya yang merdu.</p>
                   </div>
                 </div>
               </div>
@@ -158,12 +158,12 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg"><img src="assets/img/constructions-2.jpg" alt=""></div>
+                  <div class="card-bg"><img src="assets/img/kenari-scotch-fancy.jpg" alt=""></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-                    <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum blanditiis. Est laboriosam qui iste numquam laboriosam voluptatem architecto. Est laudantium sunt at quas aut hic. Eum dignissimos.</p>
+                    <h4 class="card-title">Scotfancy</h4>
+                    <p>Scotfancy adalah jenis kenari yang berasal dari Skotlandia. Kenari ini memiliki ciri khas tubuh yang anggun dan leher yang panjang, sering dipamerkan dalam pose yang unik saat kontes. Scotfancy dikenal dengan kepribadian yang ramah dan aktif, membuatnya menjadi favorit bagi banyak pencinta burung.</p>
                   </div>
                 </div>
               </div>
@@ -174,12 +174,12 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg"><img src="assets/img/constructions-3.jpg" alt=""></div>
+                  <div class="card-bg"><img src="assets/img/kenari-belgia.jpg" alt=""></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Error beatae dolor inventore aut</h4>
-                    <p>Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim molestiae facilis numquam quae quaerat ipsam omnis. Neque debitis ipsum at architecto officia laboriosam odit. Ut sunt temporibus nulla culpa.</p>
+                    <h4 class="card-title">Belgian Bossu</h4>
+                    <p>Kenari Belgian Bossu, juga dikenal sebagai "Bossu Belge", berasal dari Belgia. Jenis ini unik dengan postur tubuh yang bungkuk dan bulu yang tebal, terutama di bagian leher dan kepala. Belgian Bossu adalah pilihan populer di kalangan penghobi kenari karena penampilan yang eksentrik dan suaranya yang khas.</p>
                   </div>
                 </div>
               </div>
@@ -190,12 +190,60 @@
             <div class="card-item">
               <div class="row">
                 <div class="col-xl-5">
-                  <div class="card-bg"><img src="assets/img/constructions-4.jpg" alt=""></div>
+                  <div class="card-bg"><img src="assets/img/kenari giboso.jpeg" alt=""></div>
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Expedita voluptas ut ut nesciunt</h4>
-                    <p>Aut est quidem doloremque voluptatem magnam quis excepturi vero quia. Eum eos doloremque architecto illo at beatae dolore. Fugiat suscipit et sint ratione dolores. Aut aliquid ea dolores libero nobis.</p>
+                    <h4 class="card-title">Giboso</h4>
+                    <p>Giboso, atau lebih dikenal sebagai Giboso Espanol, adalah jenis kenari dari Spanyol yang memiliki tubuh berotot dan bentuk yang bulat. Kenari ini terkenal dengan kemampuannya menyanyi dan sering dijadikan sebagai burung lomba karena kualitas suara yang luar biasa.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg"><img src="assets/img/kenari rashmi.jpeg" alt=""></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">Rashmi</h4>
+                    <p>Kenari Persia atau Kenari Rasmi adalah jenis Kenari dengan ukuran tubuh sekitar 15 cm. DI kalangan kenari mania, jenis ini biasanya dibagi ke dalam 3 kelas. Pertama Kelas A yang dihasilkan oleh para penangkar profesional. Kedua Kelas B yang dihasilkan para penangkar semi profesional. Terakhir, Kelas C yang dihasilkan para penangkar amatir.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg"><img src="assets/img/Kenari-Lancashire.jpg" alt=""></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">Lancashier</h4>
+                    <p>Lancashire, sering disalah-eja sebagai "Lancashier", adalah kenari berukuran besar dengan kepala yang lebar dan bulu yang mengesankan. Asalnya dari Inggris, kenari ini dikenal dengan ukuran yang besar dibandingkan jenis kenari lainnya, menjadikannya sangat mencolok dalam kompetisi dan pameran.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Card Item -->
+          
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="card-item">
+              <div class="row">
+                <div class="col-xl-5">
+                  <div class="card-bg"><img src="assets/img/kenari gloster.jpg" alt=""></div>
+                </div>
+                <div class="col-xl-7 d-flex align-items-center">
+                  <div class="card-body">
+                    <h4 class="card-title">Gloster</h4>
+                    <p>Kenari Gloster terkenal dengan "corona" atau mahkota bulu di atas kepalanya, yang menyerupai topi. Asalnya dari Inggris, Gloster kecil dan bulat, sangat populer karena penampilan yang menggemaskan dan variasi warna bulunya yang beragam. Gloster biasanya tenang dan mudah beradaptasi, ideal untuk pemula dalam memelihara kenari.</p>
                   </div>
                 </div>
               </div>
@@ -892,87 +940,7 @@
 
   </main>
 
-  <footer id="footer" class="footer">
-
-    <div class="container footer-top">
-      <div class="row gy-4">
-        <div class="col-lg-4 col-md-6 footer-about">
-          <a href="index.php" class="logo d-flex align-items-center">
-            <span class="sitename">UpConstruction</span>
-          </a>
-          <div class="footer-contact pt-3">
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
-            <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-            <p><strong>Email:</strong> <span>info@example.com</span></p>
-          </div>
-          <div class="social-links d-flex mt-4">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Our Services</h4>
-          <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Hic solutasetp</h4>
-          <ul>
-            <li><a href="#">Molestiae accusamus iure</a></li>
-            <li><a href="#">Excepturi dignissimos</a></li>
-            <li><a href="#">Suscipit distinctio</a></li>
-            <li><a href="#">Dilecta</a></li>
-            <li><a href="#">Sit quas consectetur</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Nobis illum</h4>
-          <ul>
-            <li><a href="#">Ipsam</a></li>
-            <li><a href="#">Laudantium dolorum</a></li>
-            <li><a href="#">Dinera</a></li>
-            <li><a href="#">Trodelas</a></li>
-            <li><a href="#">Flexo</a></li>
-          </ul>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">UpConstruction</strong> <span>All Rights Reserved</span></p>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you've purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-
-  </footer>
+  <?php include "components/footer.php" ?>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
